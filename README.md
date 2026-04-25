@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="img/hero1.png" alt="MEDI AI Logo" width="250"/>
+<img src="img/hero1.png" alt="MEDI AI Logo" width="200"/>
 
 **Simplifying Rent Payments · Bridging Tenants & Landlords**
 
