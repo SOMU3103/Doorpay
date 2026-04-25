@@ -34,19 +34,6 @@
 **100+ Tenants · 100+ Homeowners · 24/7 Support · Zero Hassle**
 
 ---
-
-## ◈ Live Demo
-
-<div align="center">
-
-[![🌐 Visit DoorPay Website](https://img.shields.io/badge/🏠_Visit_DoorPay_Website-0d6efd?style=for-the-badge)](https://somu3103.github.io/Doorpay/)
-&nbsp;&nbsp;
-[![▶️ Watch Demo](https://img.shields.io/badge/▶️_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](#)
-
-> 🎥 *Full walkthrough video coming soon!*
-
-</div>
-
 ---
 
 ## ◈ Pages & Navigation
