@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="static/images/logo.png" alt="MEDI AI Logo" width="350"/>
+<img src="img/hero1.png" alt="MEDI AI Logo" width="350"/>
 
 **Simplifying Rent Payments · Bridging Tenants & Landlords**
 
@@ -87,11 +87,12 @@ DoorPay Website
 ```yaml
 Frontend  : HTML5, CSS3, JavaScript 
 Framework : Bootstrap 5
+Production : Django 
 Animations: WOW.js, Animate.css, Owl Carousel
 Icons     : Font Awesome, Bootstrap Icons
 Fonts     : Google Fonts (Heebo, Nunito, Pacifico)
 Hosting   : GitHub Pages
-Production : Django 
+
 ```
 
 ---
